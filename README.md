@@ -1,16 +1,8 @@
-# untitled1
+Tugas Praktikum Mobile Menggunakan Flutter Mengenai ListView
+ListView adalah widget gulir umum dalam Flutter yang digunakan untuk menampilkan elemen-elemen secara berurutan dalam satu arah gulir. 
+Dengan kemampuan menampilkan berbagai widget, ListView memungkinkan pengguna untuk menggulir melalui elemen-elemen tersebut dalam tata letak yang ditentukan. 
 
-A new Flutter project.
+Pada projek ini ListView digunakan untuk menggulir tombol ke kanan maupun ke kiri.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![gambar](https://github.com/aulia-nur-rachmatika/ListView/assets/114218228/ea14a6ad-2e86-470c-8d7a-fa23a50c6235)
+![gambar](https://github.com/aulia-nur-rachmatika/ListView/assets/114218228/5f7d6682-b102-48bc-bdec-8dd69aebab2a)
